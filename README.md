@@ -1,2 +1,5 @@
 # react-iniciante
-Created with CodeSandbox
+
+Projeto React Kanban - Iniciante
+
+Link do projeto [aqui](https://oc1w3.csb.app/)
